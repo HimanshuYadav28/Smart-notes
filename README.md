@@ -36,7 +36,7 @@ https://www.loom.com/share/3d9720dd77f0439ca59c0485a2a9c111?sid=8aa66b67-9675-42
 <img width="1470" alt="Screenshot 2025-04-29 at 1 27 40 PM" src="https://github.com/user-attachments/assets/c716fd28-b1dd-477f-b2db-98a5fd41fb57" />
 <img width="1470" alt="Screenshot 2025-04-29 at 1 27 27 PM" src="https://github.com/user-attachments/assets/e346793a-f9c0-467e-95fb-4ac3ae1626ff" />
 <img width="1470" alt="Screenshot 2025-04-29 at 1 27 05 PM" src="https://github.com/user-attachments/assets/d734b8b6-294e-46e4-95a5-3c2cc87d4834" />
-<img width="1470" alt="Screenshot 2025-04-29 at 1 26 46 PM" src="https://github.com/user-attachments/assets/cb5365fa-098e-4178-9520-d92bd97425df" />
+<!-- <img width="1470" alt="Screenshot 2025-04-29 at 1 26 46 PM" src="https://github.com/user-attachments/assets/cb5365fa-098e-4178-9520-d92bd97425df" /> -->
 <img width="1470" alt="Screenshot 2025-04-29 at 1 26 32 PM" src="https://github.com/user-attachments/assets/530b80ab-3773-49cc-8493-01efbd562620" />
 <img width="1470" alt="Screenshot 2025-04-29 at 1 26 18 PM" src="https://github.com/user-attachments/assets/759d3695-fd8e-441c-bd3d-177eeaa39112" />
 
