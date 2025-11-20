@@ -1,7 +1,7 @@
 
 # 🧠 Smart Notes – AI-Powered Notes Application
 
-[Live Demo](https://smartnotes-plum.vercel.app) • [GitHub Repo](https://github.com/Hrithik-12/smartnotes)
+[Live Demo](https://smartnotes-plum.vercel.app) • [GitHub Repo](https://github.com/HimanshuYadav28/Smart-notes)
 
 Smart Notes is a **full-stack AI-powered note-taking web application** designed to help users **write, organize, and understand notes more efficiently** with real-time syncing and intelligent summarization. The app leverages the **Gemini API** to provide smart insights and summaries, helping users boost productivity and note clarity.
 
@@ -110,8 +110,8 @@ smartnotes/
 
 ## 📫 Contact
 
-**Hrithik Garg**  
-[LinkedIn](https://www.linkedin.com/in/hrithikgarg1/) • [GitHub](https://github.com/Hrithik-12)
+**Himanshu Yadav**  
+[LinkedIn](https://www.linkedin.com/in/himanshu-yadav-b12207299/) • [GitHub](https://github.com/HimanshuYadav28)
 
 ---
 
