@@ -28,9 +28,6 @@ Smart Notes is a **full-stack AI-powered note-taking web application** designed 
 
 ---
 
-## Demo Video On LOOM
-https://www.loom.com/share/3d9720dd77f0439ca59c0485a2a9c111?sid=8aa66b67-9675-42fb-bd04-d39ec92add47
-
 ## Screenshots 
 <img width="1470" alt="Screenshot 2025-04-29 at 1 30 06 PM" src="https://github.com/user-attachments/assets/4a3f8a71-8818-4de7-bc82-200777dd516b" />
 <img width="1470" alt="Screenshot 2025-04-29 at 1 27 40 PM" src="https://github.com/user-attachments/assets/c716fd28-b1dd-477f-b2db-98a5fd41fb57" />
