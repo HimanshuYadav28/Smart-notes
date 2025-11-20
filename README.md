@@ -46,7 +46,7 @@ Smart Notes is a **full-stack AI-powered note-taking web application** designed 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hrithik-12/smartnotes.git
+git clone https://github.com/HimanshuYadav28/Smart-notes
 cd smartnotes
 ```
 
